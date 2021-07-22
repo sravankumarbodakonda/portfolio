@@ -1,5 +1,2 @@
 # sravankumar
-
-this repo as my cv 
- in this website i have added some of my projects and my sklls etc .....
- going to improve this a little bit in furture processs........
+in this i have added my portfolio which i have done my projects and about my skills for the future purpose.
