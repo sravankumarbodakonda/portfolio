@@ -1,1 +1,5 @@
-# portfolio
+# vamshigutha
+
+this repo as my cv 
+ in this website i have added some of my projects and my sklls etc .....
+ going to improve this a little bit in furture processs........
