@@ -1,4 +1,4 @@
-# vamshigutha
+# sravankumar
 
 this repo as my cv 
  in this website i have added some of my projects and my sklls etc .....
